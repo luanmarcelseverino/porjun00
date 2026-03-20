@@ -1,6 +1,6 @@
 *** Settings ***
 Library    Browser
-Documentation    Projeto de Automação E2E - Nível Júnior
+Documentation    Projeto de Automação E2E 
 
 *** Variables ***
 ${URL}             https://www.saucedemo.com/
