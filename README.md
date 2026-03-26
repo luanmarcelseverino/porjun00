@@ -1,4 +1,4 @@
-# Automação E2E - RobotFramework-Mastery Primeiros Passos na Automação de Testes
+# Automação E2E com RobotFramework Primeiros Passos em Testes
 
 Este projeto demonstra a automação de um fluxo completo de compras em um e-commerce, utilizando práticas de gerenciamento de ambiente.
 
@@ -9,7 +9,7 @@ Este projeto demonstra a automação de um fluxo completo de compras em um e-com
 * **Poetry**: Gerenciador de dependências e isolamento de ambiente virtual.
 
 ## Diferenciais deste Projeto
-Diferente de outras automações, este projeto utiliza:
+Este projeto utiliza:
 - **Gerenciamento de Ambiente**: Uso do Poetry para garantir que as dependências sejam as mesmas em qualquer máquina.
 - **Variáveis Centralizadas**: Facilidade de manutenção de URLs e credenciais.
 - **Teardown com Screenshot**: Evidência automática de cada execução, essencial para o dia a dia de um QA.
