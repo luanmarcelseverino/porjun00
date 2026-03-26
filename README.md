@@ -1,4 +1,4 @@
-# Automação E2E - Sauce Demo
+# Automação E2E - RobotFramework-Mastery Primeiros Passos na Automação de Testes
 
 Este projeto demonstra a automação de um fluxo completo de compras em um e-commerce, utilizando práticas de gerenciamento de ambiente.
 
